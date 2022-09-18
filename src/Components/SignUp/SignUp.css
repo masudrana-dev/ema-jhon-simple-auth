@@ -1,0 +1,81 @@
+.form-container {
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid #95A0A7;
+    box-sizing: border-box;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    margin-top: 50px;
+}
+
+.form-title {
+    font-size: 35px;
+    color: #2A414F;
+    font-weight: 400;
+}
+
+.input-group {
+    margin-bottom: 25px;
+}
+
+.input-group label {
+    display: block;
+    margin-left: 5px;
+}
+
+.input-group input {
+    width: 435px;
+    height: 55px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    border: 1px solid #95A0a7;
+    padding: 5px;
+}
+
+.form-submit {
+    width: 435px;
+    height: 55px;
+    border-radius: 8px;
+    border: 1px solid #FFE0B3;
+    background-color: #FFE0B3;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.form-link {
+    color: #ff9900;
+}
+
+.or-style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.left-bar {
+    height: 2px;
+    width: 30%;
+    background-color: rgb(168, 154, 154);
+    margin-right: 15px;
+}
+
+.right-bar {
+    height: 2px;
+    width: 30%;
+    background-color: rgb(150, 141, 141);
+    margin-left: 15px;
+}
+
+.google-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #bbb;
+    padding: 12px 124px;
+    border-radius: 8px;
+    margin: 25px 0px 0px 0px;
+}

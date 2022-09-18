@@ -9,11 +9,12 @@ const Header = () => {
             <nav className='header'>
                 <img src={logo} alt="" />
                 <div>
-                    <Link to='/home'>Home</Link>
+                    <Link to='/'>Home</Link>
                     <Link to="/shop">Shop</Link>
                     <Link to="/orders">Order</Link>
                     <Link to="/inventory">Inventory</Link>
                     <Link to="/about" >About</Link>
+                    <Link to='/login'>Login</Link>
                 </div>
             </nav>
         </div>
