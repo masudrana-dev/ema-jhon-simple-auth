@@ -1,11 +1,12 @@
 import React from 'react';
 
-const inventory = () => {
+const Inventory = () => {
     return (
         <div>
-            <h1>Hello there</h1>
+            <h1>hello
+            </h1>
         </div>
     );
 };
 
-export default inventory;
+export default Inventory;
